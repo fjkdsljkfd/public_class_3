@@ -1,2 +1,6 @@
-dfjsdfjsdkfsdf sdfsdjfjsdkfsdkf
+<<<<<<< HEAD
+dfjsdfjsdkfsdfsdfsdjfjsdkfsdkf
 今天是星期五
+kdfjsdfjsdkfsdf sdfsdjfjsdkfsdkfs
+明天是星期六
+
